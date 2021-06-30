@@ -8,10 +8,12 @@ const Footer = () => {
       <h1 className="footer-title">Contact Me</h1>
       <div className="footer-info">
         <div>
-          <i className="fas fa-envelope" /> <p>oshriakaa@gmail.com</p>
+          <i className="fas fa-envelope" />
+          <a href="mailto:oshriakaa@gmail.com">oshriakaa@gmail.com </a>
         </div>
         <div>
-          <i className="fas fa-phone" /> <p>050-7904258</p>
+          <i className="fas fa-phone" />
+          <a href="tel:0507904258">050-7904258</a>
         </div>
       </div>
     </div>
