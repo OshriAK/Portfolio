@@ -10,6 +10,10 @@
   padding: 80px;
 }
 
+.about-title {
+  margin-bottom: 12px;
+}
+
 .headshot-container > img {
   width: 320px;
   height: 320px;

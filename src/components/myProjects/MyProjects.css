@@ -34,6 +34,10 @@
   background-color: #eee;
 }
 
+.project-card:hover {
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 12px 40px 4px;
+}
+
 .project-card > img {
   width: 200px;
   height: 200px;
