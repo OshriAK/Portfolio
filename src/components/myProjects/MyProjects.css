@@ -1,0 +1,105 @@
+.myProjects-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(180, 176, 170);
+  font-size: 30px;
+  padding: 80px;
+}
+
+.projects-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 40px;
+  flex-wrap: wrap;
+  gap: 60px;
+  padding: 20px;
+}
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 450px;
+  width: 360px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  margin: 10px;
+  font-size: 24px;
+  border-radius: 6px;
+  background-color: #eee;
+}
+
+.project-card > img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.project-card > p {
+  padding: 15px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.projects-buttons {
+  display: flex;
+  width: 80%;
+  justify-content: space-around;
+}
+
+.projects-buttons > div {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.projects-buttons > div > a {
+  text-decoration: none;
+  color: black;
+}
+
+.projects-buttons > div > a:hover {
+  color: orange;
+}
+
+@media only screen and (max-width: 960px) {
+  .myProjects-container {
+    font-size: 26px;
+    padding: 10px;
+  }
+
+  .projects-container {
+    margin-top: 20px;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 10px;
+  }
+
+  .project-card {
+    height: 420px;
+    width: 340px;
+    font-size: 22px;
+  }
+
+  .project-card > img {
+    width: 180px;
+    height: 180px;
+  }
+
+  .project-card > p {
+    padding: 10px;
+    font-size: 18px;
+  }
+
+  .projects-buttons > div {
+    padding: 8px 12px;
+    font-size: 18px;
+  }
+}
