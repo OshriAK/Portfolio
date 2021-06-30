@@ -10,7 +10,7 @@ const About = () => {
         <p>Hello, My name is Oshri Cohen.</p>
         <p>
           I am a Software Developer with passion for coding, a lot of
-          motivation, self learning and teamplayer!
+          motivation, self learning and team player!
         </p>
         <p>HIT graduate with B.Sc in Computer Science.</p>
       </div>
