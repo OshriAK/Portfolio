@@ -10,7 +10,7 @@ const MyProjects = () => {
         <div className="project-card">
           <h4>OiNi Computer Store</h4>
           <img src="../images/oini.png" alt="OiNi" />
-          <p>Build with React, Redux, HTML, CSS, Node.js, MongoDB</p>
+          <p>Built with React, Redux, HTML, CSS, Node.js, MongoDB</p>
           <div className="projects-buttons">
             <div>
               <a
@@ -37,7 +37,7 @@ const MyProjects = () => {
         <div className="project-card">
           <h4>ShareYourPlaces</h4>
           <img src="../images/share-places.png" alt="ShareYourPlaces" />
-          <p>Build with React, Redux, HTML, CSS, Node.js, MongoDB</p>
+          <p>Built with React, Redux, HTML, CSS, Node.js, MongoDB</p>
           <div className="projects-buttons">
             <div>
               <a
@@ -64,7 +64,7 @@ const MyProjects = () => {
         <div className="project-card">
           <h4>DevConnector</h4>
           <img src="../images/developer-connector.png" alt="DevConnector" />
-          <p>Build with React, Redux, HTML, CSS, Node.js, MongoDB</p>
+          <p>Built with React, Redux, HTML, CSS, Node.js, MongoDB</p>
           <div className="projects-buttons">
             <div>
               <a
@@ -91,7 +91,7 @@ const MyProjects = () => {
         <div className="project-card">
           <h4>WeatherApp</h4>
           <img src="../images/weatherApp.png" alt="WeatherApp" />
-          <p>Build with React, Redux, HTML, CSS</p>
+          <p>Built with React, Redux, HTML, CSS</p>
           <div className="projects-buttons">
             <div>
               <a
@@ -119,7 +119,7 @@ const MyProjects = () => {
         <div className="project-card">
           <h4>My lottery</h4>
           <img src="../images/lotto.png" alt="myLottery" />
-          <p>Build with React, LocalStorage, HTML, CSS</p>
+          <p>Built with React, LocalStorage, HTML, CSS</p>
           <div className="projects-buttons">
             <div>
               <a
@@ -146,7 +146,7 @@ const MyProjects = () => {
         <div className="project-card">
           <h4>Memory Lights Game</h4>
           <img src="../images/memory-lights.png" alt="MemoryLightsGame" />
-          <p>Build with React, HTML, CSS,</p>
+          <p>Built with React, HTML, CSS,</p>
           <div className="projects-buttons">
             <div>
               <a
@@ -173,7 +173,7 @@ const MyProjects = () => {
         <div className="project-card">
           <h4>Corona Tracker</h4>
           <img src="../images/corona-tracker.png" alt="coronaTracker" />
-          <p>Build with React, Chart.js, HTML, CSS,</p>
+          <p>Built with React, Chart.js, HTML, CSS,</p>
           <div className="projects-buttons">
             <div>
               <a
@@ -201,7 +201,7 @@ const MyProjects = () => {
         <div className="project-card">
           <h4>Phone Store</h4>
           <img src="../images/phoneStore.png" alt="PhoneStore" />
-          <p>Build with React, HTML, CSS,</p>
+          <p>Built with React, HTML, CSS,</p>
           <div className="projects-buttons">
             <div>
               <a
