@@ -1,0 +1,58 @@
+export const projectsArray = [
+  {
+    projectName: 'OiNi Computer Store',
+    imgPath: '../images/oini.png',
+    discription: 'Built with React, Redux, HTML, CSS, Node.js, MongoDB',
+    webLink: 'https://oini.netlify.app/',
+    codeLink: 'https://github.com/OshriAK/oini-frontend',
+  },
+  {
+    projectName: 'Share Your Places',
+    imgPath: '../images/share-places.png',
+    discription: 'Built with React, Redux, HTML, CSS, Node.js, MongoDB',
+    webLink: 'https://oshri-places.netlify.app/',
+    codeLink: 'https://github.com/OshriAK/places-react-frontend',
+  },
+  {
+    projectName: 'DevConnector',
+    imgPath: '../images/developer-connector.png',
+    discription: 'Built with React, Redux, HTML, CSS, Node.js, MongoDB',
+    webLink: 'https://oshrinetwork.herokuapp.com/',
+    codeLink: 'https://github.com/OshriAK/oshrinetwork',
+  },
+  {
+    projectName: 'Weather App',
+    imgPath: '../images/weatherApp.png',
+    discription: 'Built with React, Redux, HTML, CSS',
+    webLink: 'https://oshri-weather-app.netlify.app/',
+    codeLink: 'https://github.com/OshriAK/weatherNew',
+  },
+  {
+    projectName: 'My lottery',
+    imgPath: '../images/lotto.png',
+    discription: 'Built with React, LocalStorage, HTML, CSS',
+    webLink: 'https://oshri-lotto.netlify.app/',
+    codeLink: 'https://github.com/OshriAK/my-lotto',
+  },
+  {
+    projectName: 'Memory Lights Game',
+    imgPath: '../images/memory-lights.png',
+    discription: 'Built with React, HTML, CSS,',
+    webLink: 'https://oshri-memory-light.netlify.app/',
+    codeLink: 'https://github.com/OshriAK/memory-light',
+  },
+  {
+    projectName: 'Corona Tracker',
+    imgPath: '../images/corona-tracker.png',
+    discription: 'Built with React, Chart.js, HTML, CSS',
+    webLink: 'https://oshri-corona-tracker.netlify.app/',
+    codeLink: 'https://github.com/OshriAK/Corona-Tracker',
+  },
+  {
+    projectName: 'Phone Store',
+    imgPath: '../images/phoneStore.png',
+    discription: 'Built with React, HTML, CSS',
+    webLink: 'https://phone-store-oshri.netlify.app/',
+    codeLink: 'https://github.com/OshriAK/react-phone-store',
+  },
+];

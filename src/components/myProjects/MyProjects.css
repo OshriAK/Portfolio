@@ -19,67 +19,6 @@
   padding: 20px;
 }
 
-.project-card {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  align-items: center;
-  height: 450px;
-  width: 360px;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
-    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
-  margin: 10px;
-  font-size: 24px;
-  border-radius: 6px;
-  background-color: #eee;
-}
-
-.project-card:hover {
-  box-shadow: rgba(0, 0, 0, 0.56) 0px 12px 40px 4px;
-}
-
-.project-card > img {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-}
-
-.project-card > p {
-  padding: 15px;
-  font-size: 18px;
-  text-align: center;
-}
-
-.projects-buttons {
-  display: flex;
-  width: 80%;
-  justify-content: space-around;
-}
-
-.projects-buttons > div {
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
-    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
-  padding: 4px 10px;
-  border-radius: 6px;
-  font-size: 22px;
-  margin-bottom: 5px;
-  border: 2px solid coral;
-  cursor: pointer;
-}
-
-.projects-buttons > div > a {
-  text-decoration: none;
-  color: coral;
-}
-
-.projects-buttons > div > a:hover {
-  color: orange;
-}
-
-.projects-buttons > div:hover {
-  border: 2px solid orange;
-}
-
 @media only screen and (max-width: 960px) {
   .myProjects-container {
     font-size: 26px;
@@ -91,26 +30,5 @@
     flex-wrap: wrap;
     gap: 20px;
     padding: 10px;
-  }
-
-  .project-card {
-    height: 420px;
-    width: 340px;
-    font-size: 22px;
-  }
-
-  .project-card > img {
-    width: 180px;
-    height: 180px;
-  }
-
-  .project-card > p {
-    padding: 10px;
-    font-size: 18px;
-  }
-
-  .projects-buttons > div {
-    padding: 8px 12px;
-    font-size: 18px;
   }
 }

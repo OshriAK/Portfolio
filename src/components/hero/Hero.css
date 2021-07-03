@@ -106,6 +106,8 @@
 .hero-button:hover:active {
   background-color: #d8856a;
   color: white;
+  border: 0;
+  outline: none;
 }
 
 .hero-socials {
