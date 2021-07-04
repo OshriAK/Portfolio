@@ -46,7 +46,7 @@ const Hero = () => {
           <h1 className="hero-my-name">Oshri Cohen</h1>
           <p>Full Stack Developer</p>
           <div className="hero-button">
-            <a href="../cv/oshri-cv.pdf" download="oshri-cv.pdf">
+            <a href="../cv/oshri-cohen-CV.pdf" download="oshri-cohen-CV.pdf">
               Download CV
             </a>
           </div>
