@@ -20,13 +20,13 @@ export const projectsArray = [
     webLink: 'https://oshrinetwork.herokuapp.com/',
     codeLink: 'https://github.com/OshriAK/oshrinetwork',
   },
-  {
-    projectName: 'Weather App',
-    imgPath: '../images/weatherApp.png',
-    discription: 'Built with React, Redux, HTML, CSS',
-    webLink: 'https://oshri-weather-app.netlify.app/',
-    codeLink: 'https://github.com/OshriAK/weatherNew',
-  },
+  // {
+  //   projectName: 'Weather App',
+  //   imgPath: '../images/weatherApp.png',
+  //   discription: 'Built with React, Redux, HTML, CSS',
+  //   webLink: 'https://oshri-weather-app.netlify.app/',
+  //   codeLink: 'https://github.com/OshriAK/weatherNew',
+  // },
   {
     projectName: 'My lottery',
     imgPath: '../images/lotto.png',
